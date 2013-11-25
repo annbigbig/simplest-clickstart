@@ -1,1 +1,11 @@
-//for testing
+
+{
+    "id": "simple-war",
+    "name": "Simple - WAR",
+    "app-package": "https://s3.amazonaws.com/cloudbees-downloads/webapp.war",
+    "description": "Simple war deployed through clickstart",
+    "app-package-type": "war",
+    "runtime": {
+        "type": "tomcat"
+    }
+}
